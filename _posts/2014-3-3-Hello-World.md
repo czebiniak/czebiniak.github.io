@@ -1,10 +1,14 @@
----
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <link rel="alternate stylesheet" type="text/css" href="resource://gre-resources/plaintext.css"
+      title="Wrap Long Lines">
+  </head>
+  <body>
+    <pre>---
 layout: post
-title: You're up and running!
+title: Norman World’s first psychopath AI.
 ---
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+<br>[Norman World’s first psychopath AI.](http://norman-ai.mit.edu/)</pre>
+  </body>
+</html>
