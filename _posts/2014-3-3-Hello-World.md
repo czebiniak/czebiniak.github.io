@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Norman - World’s first psychopath AI
 ---
 
-[Norman World’s first psychopath AI.](http://norman-ai.mit.edu/)
+[Norman - World’s first psychopath AI.](http://norman-ai.mit.edu/)
